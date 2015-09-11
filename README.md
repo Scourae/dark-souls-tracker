@@ -7,6 +7,7 @@
 * Reminder beside the map on whihc bosses and mini-bosses that are still alive in an area that you have cleared
 
 Make sure your cookies are enabled for this app to save your progress.
+
 Some bosses are on the reminder list but their area is not on the map, that is because the map asset that I have obtained does not have these areas, so they are on the reminder list to remind you that you have to kill them!
 
 
